@@ -443,7 +443,7 @@ msgid "start"
 msgstr "iniciar"
 
 msgid "resume"
-msgstr "retormar"
+msgstr "retomar"
 
 msgid "PAUSE"
 msgstr "PAUSAR"
